@@ -48,7 +48,7 @@ Format:
 Format: 
 [article title](URL) Platform by Author (month, year) flag - use flag emoji 
 
-[Hyperlane Brings Out-of-the-Box Interoperability to the Celestia Ecosystem](https://medium.com/hyperlane/hyperlane-brings-out-of-the-box-interoperability-to-the-celestia-ecosystem-ced8065bfa7c). Cumulo (04.05.2023) :es:
+[Hyperlane Brings Out-of-the-Box Interoperability to the Celestia Ecosystem](https://medium.com/hyperlane-esp/hyperlane-aporta-interoperabilidad-inmediata-al-ecosistema-celestia-5a890d9116e8). Cumulo (04.05.2023) :es:
 
 ## International channels 
 list your twitter channel here
